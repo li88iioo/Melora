@@ -1,0 +1,7 @@
+node_modules/
+**/dist/
+.superpowers/
+lx 音源/
+fnos-luoxue-music-fpk-development-spec.md
+packaging/
+package-lock.json
